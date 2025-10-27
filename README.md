@@ -44,17 +44,8 @@ This project provided hands-on experience with:
 ## 🖼️ Preview
 
 *(Add your GitHub Pages or Netlify live link here)*  
-> Example: [Live Demo – Carex](https://yourusername.github.io/carex)
-
----
-
-## 🧩 Future Enhancements
-
-- 🧘 Add a **booking form** for fitness sessions  
-- 🏋️ Integrate a **trainers profile** section with hover animations  
-- 💬 Include a **contact form** with validation and custom alerts  
-- ⚙️ Add **interactive charts** for fitness tracking using Chart.js  
-
+> Example: [Live Demo – Carex](https://tasneem357mohamed.github.io/SEF_Front-End-Project3-Bootstrap-/)
+ 
 ---
 
 ## 🎓 Course Context
@@ -69,7 +60,7 @@ Developed during the **SEF Academy Front-End Development Course**, this project 
 
 ## 👩‍💻 Author
 
-**Tasneem Mohamed (Nemo)**  
+**Tasneem Mohamed**  
 Front-End Developer Trainee @ **SEF Academy**  
 📍 Egypt  
 
